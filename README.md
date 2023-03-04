@@ -1,4 +1,4 @@
-<h1>Projeto Android 🤖</h1>
+<h1>Projeto Android 🤖</h1> 
 
 <p>Desafio do curso de HTML e CSS do Curso em Vídeo</p>
 
@@ -8,8 +8,14 @@
 
 <h2> Exercício Proposto: 🕵️ </h2>
 
+<img display="block" align="right" alt="qr code do projeto" height="130" style="border-radius:1em" src="imagens/frame.png">
+
 <p>
-    Como fizemos essa versão juntos, replicamos o site que ele havia nos apresentado no inicio do Módulo 02
+    Replicamos o site que ele havia nos apresentado no inicio do Módulo 02
+</p>
+
+<p>
+    Aponte a câmera do celular para o QR Code para acessar o desafio no repositório do professor Guanabra 👉
 </p>
 
 <h2> Tecnologias Utilizadas: 👩‍💻 </h2>
@@ -19,9 +25,7 @@
   </ul>
 
   <h2> Projeto Finalizado ✅ </h2>
+  
+ <p>Link do Projeto: <a href="https://g4breela.github.io/projeto-android/">https://g4breela.github.io/projeto-android/</a></p>
 
-<img alt="imagem do projeto finalizado" height="500" src="imagens/projeto-finalizado.png">
-
-<p><a href="https://g4breela.github.io/projeto-android/">Clique aqui</a> para abrir o projeto ou aponte a câmera para o QR Code 📷</p>
-
-<img alt="qrcode da pagina" height="150" style="border-radius:1em" src="imagens/frame.png">
+<img alt="imagem do projeto finalizado" height="450" src="imagens/projeto-finalizado.png">
