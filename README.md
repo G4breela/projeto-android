@@ -26,6 +26,6 @@
 
   <h2> Projeto Finalizado ✅ </h2>
   
- <p>Link do Projeto: <a href="https://g4breela.github.io/projeto-android/">https://g4breela.github.io/projeto-android/</a></p>
+ <p>Link do Projeto: <a href="https://g4breela.github.io/projeto-android/" target="_blank">https://g4breela.github.io/projeto-android/</a></p>
 
 <img alt="imagem do projeto finalizado" height="450" src="imagens/projeto-finalizado.png">
