@@ -1,9 +1,7 @@
 <h1>Projeto Android 🤖</h1> 
 
-<p>Desafio do curso de HTML e CSS do Curso em Vídeo</p>
-
 <p>
-    Essa versão foi criada junto com o professor guanabara durante o capítulo 17 do módulo 02 do curso de HTML e CSS
+    Essa versão foi criada junto com o professor Guanabara durante o capítulo 17 do módulo 02 do curso de HTML e CSS
 </p>
 
 <h2> Exercício Proposto: 🕵️ </h2>
@@ -11,7 +9,7 @@
 <img display="block" align="right" alt="qr code do projeto" height="130" style="border-radius:1em" src="imagens/frame.png">
 
 <p>
-    Replicamos o site que ele havia nos apresentado no inicio do Módulo 02
+    Replicamos o site que ele havia nos apresentado no inicio do módulo
 </p>
 
 <p>
